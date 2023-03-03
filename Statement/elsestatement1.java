@@ -1,4 +1,4 @@
-package Stetments;
+package Statement;
 
 public class elsestatement1 {
     public static void main(String[] args) {
