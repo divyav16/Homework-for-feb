@@ -2,9 +2,9 @@ package Statement;
 
 public class elsestatement2and3 {
     public static void main(String[] args) {
-        int age=16;
+        int age=17;
 
-        if(age>17) {
+        if(age>16) {
             System.out.println("Age is more than 17 so allowed to drive with valid driving licence");
             // Positive
         }
